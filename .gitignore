@@ -9,11 +9,6 @@ build/
 .vscode/
 *.iml
 
-# Ignore Folder 
-ios/
-linux/
-macos/
-lib/screens/
 
 # Ignore Dart & Flutter generated files
 .packages
